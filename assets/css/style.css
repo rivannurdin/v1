@@ -1,0 +1,30 @@
+body {
+    color: #8a8a8a;
+}
+
+.btn-outline-danger:hover, .btn-outline-danger:focus, .btn-outline-danger:active, .btn-outline-danger.active, .btn-outline-danger:active:focus, .btn-outline-danger:active:hover, .btn-outline-danger.active:focus, .show>.btn-outline-danger.dropdown-toggle {
+    background-color: #ff7e00 !important;
+    border-color: #ff7e00 !important;
+}
+
+.btn-outline-danger {
+    border-color: #ff7e00 !important;
+    color: #ff7e00;
+}
+
+.label-danger {
+    background-color: #ff7e00;
+}
+
+.btn-danger {
+    background-color: #ff7e00;
+    border-color: #ff7e00;
+}
+.title {
+    margin-bottom: 0;
+}
+
+.skill {
+    width: 50px;
+    padding: 5px;
+}
